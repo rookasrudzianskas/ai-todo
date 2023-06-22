@@ -6,9 +6,13 @@
 //
 
 import SwiftUI
+import FirebaseCore
 
 @main
 struct AI_TODOApp: App {
+    init() {
+        FirebaseApp.configure()
+    }
     var body: some Scene {
         WindowGroup {
             ContentView()
