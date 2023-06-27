@@ -1,3 +1,3 @@
 # ai-todo
 AI todo application in swiftUI
-with new
+with new technologies
